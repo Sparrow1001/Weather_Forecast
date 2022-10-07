@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <!-- Weather -->
+    <string name="your_today">Today %1$s</string>
+    <string name="your_celsius">%1$s°C</string>
+    <string name="hpa">hpa</string>
+    <string name="percent">%</string>
+    <string name="km_hour">km/h</string>
+    <string name="today">Today</string>
+
+    <!-- Weather Types -->
+    <string name="clear_sky">Clear sky</string>
+    <string name="mainly_clear">Mainly clear</string>
+    <string name="partly_cloudy">Partly cloudy</string>
+    <string name="overcast">Overcast</string>
+    <string name="foggy">Foggy</string>
+    <string name="depositing_rime_fog">Depositing rime fog</string>
+    <string name="light_drizzle">Light drizzle</string>
+    <string name="moderate_drizzle">Moderate drizzle</string>
+    <string name="dense_drizzle">Dense drizzle</string>
+    <string name="light_freezing_drizzle">Light freezing drizzle</string>
+    <string name="dense_freezing_drizzle">Dense freezing drizzle</string>
+    <string name="slight_rain">Slight rain</string>
+    <string name="moderate_rain">Moderate rain</string>
+    <string name="heavy_rain">Heavy rain</string>
+    <string name="heavy_freezing_rain">Heavy freezing rain</string>
+    <string name="slight_snow_fall">Slight snow fall</string>
+    <string name="moderate_snow_fall">Moderate snow fall</string>
+    <string name="heavy_snow_fall">Heavy snow fall</string>
+    <string name="snow_grains">Snow grains</string>
+    <string name="slight_rain_showers">Slight rain showers</string>
+    <string name="moderate_rain_showers">Moderate rain showers</string>
+    <string name="violent_rain_showers">Violent rain showers</string>
+    <string name="slight_snow_showers">Slight snow showers</string>
+    <string name="heavy_snow_showers">Heavy snow showers</string>
+    <string name="moderate_thunderstorm">Moderate thunderstorm</string>
+    <string name="slight_hail_thunderstorm">Thunderstorm with slight hail</string>
+    <string name="heavy_hail_thunderstorm">Thunderstorm with heavy hail</string>
+
+    <!-- Errors -->
+    <string name="error_unknown">Unknown error occurred!</string>
+    <string name="error_access_fine_location">Please allow fine location permission!</string>
+    <string name="error_access_coarse_location">Please allow coarse location permission!</string>
+    <string name="error_gps_not_enabled">Please turn on GPS!</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_weather_today_type">Today\'s weather type</string>
+    <string name="cd_pressure_in_hpa">Pressure in hpa</string>
+    <string name="cd_humidity_in_percent">Humidity in percent</string>
+    <string name="cd_wind_speed_in_km_hour">Wind speed in kilometers hour</string>
+</resources>
